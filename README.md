@@ -1,6 +1,6 @@
 # React - Lifecycle Methods
 
-## Questions to Ask Youself
+## Questions to Ask Yourself
 - Why have a lifecycle?
 - What is this taking the place of in vanilla JS?
 
